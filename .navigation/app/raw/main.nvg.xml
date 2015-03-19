@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.LeaderMenuAct"/>
+      <point      
+        x = "790"      
+        y = "632"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.CreatePost"/>
+      <point      
+        x = "1738"      
+        y = "0"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "locate_act"/>
+      <point      
+        x = "1109"      
+        y = "2"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.MainAct"/>
+      <point      
+        x = "158"      
+        y = "474"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.SolveAct"/>
+      <point      
+        x = "1743"      
+        y = "158"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "main_act"/>
+      <point      
+        x = "158"      
+        y = "317"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "check_post_act"/>
+      <point      
+        x = "2073"      
+        y = "159"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.CheckPostAct"/>
+      <point      
+        x = "2229"      
+        y = "318"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "solve_act"/>
+      <point      
+        x = "1584"      
+        y = "2"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.ScoutMenuAct"/>
+      <point      
+        x = "792"      
+        y = "158"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.ApprovePostAct"/>
+      <point      
+        x = "500"      
+        y = "3040"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.CreateGameAct"/>
+      <point      
+        x = "1592"      
+        y = "796"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "create_post_act"/>
+      <point      
+        x = "1914"      
+        y = "640"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.CreatePostAct"/>
+      <point      
+        x = "2070"      
+        y = "796"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.LocateAct"/>
+      <point      
+        x = "1267"      
+        y = "158"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "create_game_act"/>
+      <point      
+        x = "1427"      
+        y = "634"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "eva.scoutapp.CreateGame"/>
+      <point      
+        x = "1264"      
+        y = "316"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "approve_post_act"/>
+      <point      
+        x = "1240"      
+        y = "3040"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "scout_menu_act"/>
+      <point      
+        x = "634"      
+        y = "0"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "leader_menu_act"/>
+      <point      
+        x = "633"      
+        y = "475"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
