@@ -3,9 +3,10 @@ package eva.scoutapp;
 import android.app.Application;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
-import android.util.Log;
 
 import java.util.ArrayList;
+
+import eva.logik.GameLog;
 
 /**
  * Her kan foretages fælles initialisering.

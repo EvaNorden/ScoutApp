@@ -1,4 +1,4 @@
-package eva.scoutapp;
+package eva.logik;
 
 import java.util.ArrayList;
 
