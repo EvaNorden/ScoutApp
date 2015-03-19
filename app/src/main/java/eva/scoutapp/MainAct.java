@@ -22,6 +22,7 @@ public class MainAct extends ActionBarActivity implements View.OnClickListener {
 
         scoutB.setOnClickListener(this);
         leaderB.setOnClickListener(this);
+
     }
 
     @Override
